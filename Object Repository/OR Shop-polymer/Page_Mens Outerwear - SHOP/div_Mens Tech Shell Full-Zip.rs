@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mens Tech Shell Full-Zip</name>
+   <tag></tag>
+   <elementGuidId>f1ca698e-0b3c-4ff6-8b9b-0097e0007d5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Men's Tech Shell Full-Zip']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>46a2066b-6a25-4746-8599-0f075d2c11ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>671df4bf-5fb2-4c31-9049-8c0188132e0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Men's Tech Shell Full-Zip</value>
+      <webElementGuid>e8b4ceda-95db-452a-907a-2a9d817236d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@class=&quot;title&quot;]</value>
+      <webElementGuid>1d163a03-8922-44be-b27a-ee197c7c7ebc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OR Shop-polymer/Page_Mens Outerwear - SHOP/shop-list-item</value>
+      <webElementGuid>4ac00e0a-9657-42d6-b4e0-0fee72d337a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e7ce217e-237f-464e-a80e-f43de36de15e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Men's Tech Shell Full-Zip']/parent::*</value>
+      <webElementGuid>d332c0cf-9a44-44b4-b296-3400b5fbd0ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Men&quot; , &quot;'&quot; , &quot;s Tech Shell Full-Zip&quot;) or . = concat(&quot;Men&quot; , &quot;'&quot; , &quot;s Tech Shell Full-Zip&quot;))]</value>
+      <webElementGuid>44566efe-e509-441c-9a39-d01c9fc903cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

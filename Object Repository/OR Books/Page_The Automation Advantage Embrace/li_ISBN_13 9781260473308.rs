@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_ISBN_13 9781260473308</name>
+   <tag></tag>
+   <elementGuidId>2e451e72-34ad-4118-ab2a-0904120332ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='ISBN_13']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>section > div:nth-child(5) > ul > li:nth-child(1)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>9c072b37-a8f9-445e-a8a7-22a73a5561b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ISBN_13: 9781260473308</value>
+      <webElementGuid>ab4c9420-3cf8-4000-a078-e1453c544232</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/section[1]/div[@class=&quot;desc&quot;]/ul[1]/li[1]</value>
+      <webElementGuid>3b98f537-ebd1-4044-a3e8-82c665ec8231</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OR Books/Page_The Automation Advantage Embrace/book-detail__page</value>
+      <webElementGuid>b5e54df0-b89e-48a9-ba71-4598f87483f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>adadf773-62ad-44d3-87cd-caeff00a3ef0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ISBN_13']/parent::*</value>
+      <webElementGuid>4e792863-0949-4485-b42c-3c4fdf1a150d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'ISBN_13: 9781260473308' or . = 'ISBN_13: 9781260473308')]</value>
+      <webElementGuid>4b204f04-d013-4c94-81cf-96b3ebdeb6f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

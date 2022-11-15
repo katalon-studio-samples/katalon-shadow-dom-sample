@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>shop-checkout_checkout</name>
+   <tag></tag>
+   <elementGuidId>194913fb-50b9-4980-8221-7c33c76ef1b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//shop-checkout[@name = 'checkout']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>iron-pages > shop-checkout[name=&quot;checkout&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>shop-checkout</value>
+      <webElementGuid>88f69596-96fe-461d-8e46-8b9f73bff8e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>checkout</value>
+      <webElementGuid>d0e0eba6-9792-43ae-a598-e60c0a258a91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iron-selected</value>
+      <webElementGuid>46479f39-0d86-4cdd-8c65-9a5e48250e97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/iron-pages[1]/shop-checkout[@class=&quot;iron-selected&quot;]</value>
+      <webElementGuid>b9ea1b2a-73b6-4bf8-bddf-1b6b3d6ca6c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OR Shop-polymer/Page_Checkout - SHOP/shop-app_SHOP</value>
+      <webElementGuid>a3f51ba6-d21b-4e20-9838-f79e895676f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>fef94b58-bc65-4257-8033-304f283b453a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//shop-checkout[@name = 'checkout']</value>
+      <webElementGuid>75a4b759-962a-4b98-afe0-71032bf20f6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

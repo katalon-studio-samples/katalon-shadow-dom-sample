@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_YouTube Organic Cotton T-Shirt - Grey</name>
+   <tag></tag>
+   <elementGuidId>1bacfc0c-f9ac-416b-a87c-b940856ad4d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='YouTube Organic Cotton T-Shirt - Grey']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a25e5a8c-198f-4802-83ed-2db2e3ad050a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>1699f6fc-b00b-4ad2-b4cf-4ac4646bc28f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>YouTube Organic Cotton T-Shirt - Grey</value>
+      <webElementGuid>ccea50a5-f7cd-48c4-b022-b7b3f82a61ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@class=&quot;title&quot;]</value>
+      <webElementGuid>8322bfa3-24fa-455b-bc01-580f16b2c7d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OR Shop-polymer/Page_Mens T-Shirts - SHOP/shop-list-item</value>
+      <webElementGuid>d06f77c7-7af9-405d-8045-4f6f1f4e89b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c9398599-3e8f-4a7b-a898-39d9da898be6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='YouTube Organic Cotton T-Shirt - Grey']/parent::*</value>
+      <webElementGuid>ad072c34-7ea2-4564-a68b-abe6eb5672ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'YouTube Organic Cotton T-Shirt - Grey' or . = 'YouTube Organic Cotton T-Shirt - Grey')]</value>
+      <webElementGuid>0c11410b-7be8-4445-9b0a-21946046c253</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>shop-list-item</name>
+   <tag></tag>
+   <elementGuidId>3bbcc821-23c1-46c1-9cf1-19b447f15f12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.grid > li > a > shop-list-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>shop-list-item</value>
+      <webElementGuid>9fc69642-329b-4fe4-8d83-defc4d04f5e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/ul[@class=&quot;grid&quot;]/li[1]/a[1]/shop-list-item[1]</value>
+      <webElementGuid>d9572052-964b-4a7a-9fe3-8f1315d862db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OR Shop-polymer/Page_Mens Outerwear - SHOP/shop-list_list</value>
+      <webElementGuid>1f760212-ddc5-4b11-874d-e741ced8d5d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>70ee8df6-a3e3-4950-8139-68bb84e9ac35</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>shop-list_list</name>
+   <tag></tag>
+   <elementGuidId>65ae0af2-4328-4171-8847-a03043064b36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//shop-list[@name = 'list']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>iron-pages > shop-list[name=&quot;list&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>shop-list</value>
+      <webElementGuid>deefb376-f9d6-47d1-9375-c96d73fc341b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>list</value>
+      <webElementGuid>3db37b4b-4f3b-41c2-9c21-4c9c1ae4d0ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/iron-pages[1]/shop-list[1]</value>
+      <webElementGuid>4b96222e-bcbe-42ed-bbd2-642bcf6e4d22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OR Shop-polymer/Page_Mens Tech Shell Full-Zip - SHOP/shop-app_SHOP</value>
+      <webElementGuid>26c49cf1-0899-4692-9e53-2c75a929f46a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b449fa13-6765-4f91-a3d3-e45d124283f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//shop-list[@name = 'list']</value>
+      <webElementGuid>40dd2aee-3ab3-4217-a514-0283c9a1ddba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

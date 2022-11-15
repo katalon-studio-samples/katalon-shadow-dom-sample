@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>book-app_BOOKS (1)</name>
+   <tag></tag>
+   <elementGuidId>c3cac2dc-d56b-4937-95da-69c772fdb667</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::book-app[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>book-app</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>book-app</value>
+      <webElementGuid>9043d075-9600-4577-b976-280da79f49da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>apptitle</name>
+      <type>Main</type>
+      <value>BOOKS</value>
+      <webElementGuid>07b79834-474d-4632-9e67-39240c6219d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BOOKS</value>
+      <webElementGuid>1ade30ee-acc8-4f90-a93b-742b89eb5942</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/book-app[1]</value>
+      <webElementGuid>bbea494f-5ca2-4293-840a-7399bc539bfd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::book-app[1]</value>
+      <webElementGuid>a4ccb839-a4c1-4816-885b-25b070947e7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::book-app[1]</value>
+      <webElementGuid>3ae06c53-a2af-431c-a7c2-c8ed09a40037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BOOKS']/parent::*</value>
+      <webElementGuid>f5942daf-9ee1-483e-a6b9-b92b152c04a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//book-app</value>
+      <webElementGuid>50689ef8-5b77-4741-9eda-deaf4593cb70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//book-app[(text() = 'BOOKS' or . = 'BOOKS')]</value>
+      <webElementGuid>b8126bc1-0a3e-4acb-990e-c82f29777a9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

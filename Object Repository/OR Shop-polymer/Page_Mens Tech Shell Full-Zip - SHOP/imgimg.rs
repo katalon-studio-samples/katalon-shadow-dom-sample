@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>imgimg</name>
+   <tag></tag>
+   <elementGuidId>2e76bc23-4f0d-43c7-b4fa-2b0124a918b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt=&quot;Men's Tech Shell Full-Zip&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>85d3f845-04b5-4d38-a9a4-e3902a31d88e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a237aa63-0785-4c0a-932f-c0d6887aeb0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Men's Tech Shell Full-Zip</value>
+      <webElementGuid>e1664bfc-20b9-441e-80ca-c67bad1f9d1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>data/images/10-15068A.jpg</value>
+      <webElementGuid>f772daf7-51ec-47c6-a57f-6447dbd29db5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/img[@id=&quot;img&quot;]</value>
+      <webElementGuid>4e6bc67b-08f5-4a37-a966-ce80978a6698</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OR Shop-polymer/Page_Mens Tech Shell Full-Zip - SHOP/shop-image</value>
+      <webElementGuid>d18b165a-65dd-42e5-ba4b-923e10ae781b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d1f0999c-6b78-4271-827f-af7a9ee70131</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt=&quot;Men's Tech Shell Full-Zip&quot;]</value>
+      <webElementGuid>517a85ef-e1b2-44eb-8193-1eb483958daf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@id = 'img' and @alt = concat(&quot;Men&quot; , &quot;'&quot; , &quot;s Tech Shell Full-Zip&quot;) and @src = 'data/images/10-15068A.jpg']</value>
+      <webElementGuid>586977e9-ddd6-4530-a96c-bcca53972325</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

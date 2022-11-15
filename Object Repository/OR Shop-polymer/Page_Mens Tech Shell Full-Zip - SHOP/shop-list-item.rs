@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>shop-list-item</name>
+   <tag></tag>
+   <elementGuidId>65f39f5c-4bfa-41fd-83f7-f12fcd92634c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.grid > li > a > shop-list-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>shop-list-item</value>
+      <webElementGuid>fe56a2c2-71fa-4d8e-96ba-38736baba3c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/ul[@class=&quot;grid&quot;]/li[1]/a[1]/shop-list-item[1]</value>
+      <webElementGuid>21a00f91-bdda-4fae-8697-5131117fddf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OR Shop-polymer/Page_Mens Tech Shell Full-Zip - SHOP/shop-list_list</value>
+      <webElementGuid>e34699a8-2d4f-439f-a16b-5ba1766bdad3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>14ebaa70-b667-4f8c-97ae-d1181b5bd8e3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

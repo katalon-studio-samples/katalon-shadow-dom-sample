@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>book-input-decorator</name>
+   <tag></tag>
+   <elementGuidId>e77932d1-9a76-46c5-aaf9-921f5eb711ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>app-header > app-toolbar.toolbar-bottom > book-input-decorator</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>book-input-decorator</value>
+      <webElementGuid>cae0748f-c9d2-4185-99f2-81c3f08f8064</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/app-header[1]/app-toolbar[@class=&quot;toolbar-bottom&quot;]/book-input-decorator[1]</value>
+      <webElementGuid>a33e5ae6-3403-4392-98eb-f86114b5ce83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OR Books/Page_automation - Books/book-app_BOOKS</value>
+      <webElementGuid>98e07beb-98d2-4f13-b70d-f81e62a07d86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2a2e7c4a-bc24-42bd-ba88-fb40e287539e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      <webElementGuid>c67ab064-877f-4581-a42c-d847cbcb60a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

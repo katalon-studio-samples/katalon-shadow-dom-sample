@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>book-detail__page</name>
+   <tag></tag>
+   <elementGuidId>ac94140b-5fd7-4832-a013-f321f8e420b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>main.main-content > book-detail._page</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>book-detail</value>
+      <webElementGuid>35d46de8-9904-48d4-9bba-8b537e01b409</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_page</value>
+      <webElementGuid>30ad1f33-f15a-4ae9-ba3d-5bb8b01c8463</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/main[@class=&quot;main-content&quot;]/book-detail[@class=&quot;_page&quot;]</value>
+      <webElementGuid>2bda0eda-e6b5-423b-bde3-7c2bbfbf2e47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OR Books/Page_The Automation Advantage Embrace/book-app_BOOKS</value>
+      <webElementGuid>e1b59993-a7b8-4fed-8728-317ac2c27285</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>9be662e6-3065-4ae2-a944-f31c4121ddef</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>shop-home_home</name>
+   <tag></tag>
+   <elementGuidId>17255adc-ff38-4ff5-ac4b-c99e369e9e5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//shop-home[@name = 'home']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>iron-pages > shop-home[name=&quot;home&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>shop-home</value>
+      <webElementGuid>8b5b51fb-2485-419c-8b78-67f87c224822</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>home</value>
+      <webElementGuid>b7c59121-750d-4115-bb2f-465d94da1ecb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iron-selected</value>
+      <webElementGuid>ac4c8449-469a-485d-8120-199375090484</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/iron-pages[1]/shop-home[@class=&quot;iron-selected&quot;]</value>
+      <webElementGuid>d34b5f62-1a15-40bc-b09f-1440b5fbe1ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OR Shop-polymer/Page_Home - SHOP/shop-app_SHOP</value>
+      <webElementGuid>a77762dd-f0a3-44da-bafd-adee11b52072</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>1b1c2f43-6cb8-42c9-8a27-d61c1ef4cda9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//shop-home[@name = 'home']</value>
+      <webElementGuid>e427e7ba-dfc5-4aa8-905b-53674e384f83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

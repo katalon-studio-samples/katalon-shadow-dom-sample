@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>shop-list_list</name>
+   <tag></tag>
+   <elementGuidId>285ba6b9-00ed-4da3-b1f7-179900f5a2d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//shop-list[@name = 'list']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>iron-pages > shop-list[name=&quot;list&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>shop-list</value>
+      <webElementGuid>40f1da34-e744-47a8-98da-cff244f27927</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>list</value>
+      <webElementGuid>a7a0e88a-d396-44fa-bef1-fad15b890049</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iron-selected</value>
+      <webElementGuid>bd815826-25ae-441f-9ee7-79ee6684a034</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/iron-pages[1]/shop-list[@class=&quot;iron-selected&quot;]</value>
+      <webElementGuid>fa2af198-dc47-433f-8b2b-82b9beb3eaa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OR Shop-polymer/Page_Mens T-Shirts - SHOP/shop-app_SHOP</value>
+      <webElementGuid>42cbe319-97ad-4470-b0d8-60826ed8682f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>02cf55d5-9d86-4b28-981f-9698e91ecdad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//shop-list[@name = 'list']</value>
+      <webElementGuid>01f84a30-6f39-4c53-adf1-a62a290ea7d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

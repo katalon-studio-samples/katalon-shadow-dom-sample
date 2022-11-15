@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inputinput</name>
+   <tag></tag>
+   <elementGuidId>df175e42-c06a-4866-878a-13d9c599f241</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id = 'input' and @type = 'search']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>app-header > app-toolbar.toolbar-bottom > book-input-decorator > #input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>35c6fc11-dc22-453f-8a4e-1e6bdc0552bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>slot</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>92fb1b63-8d90-4858-a84f-62139182726a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>41daa0f2-9092-4004-85b1-0ed29d182319</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Search Books</value>
+      <webElementGuid>907b510f-6f77-4748-912f-9b57034bc07a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>a1560f2d-f6a6-49fb-b3ea-1cff6caf1f65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/app-header[1]/app-toolbar[@class=&quot;toolbar-bottom&quot;]/book-input-decorator[1]/input[@id=&quot;input&quot;]</value>
+      <webElementGuid>f899e7fc-19e1-46ce-9fe0-d93d0bc2d7d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OR Books/Page_Books/book-app_BOOKS</value>
+      <webElementGuid>edcd1fd3-f137-469c-9dac-85cda76d55e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d629824d-0185-4593-95b6-61666f1ad498</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'input' and @type = 'search']</value>
+      <webElementGuid>7948139f-74dd-404b-a5bf-e93f981f16d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

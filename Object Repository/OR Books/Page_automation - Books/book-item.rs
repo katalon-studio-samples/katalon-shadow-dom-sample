@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>book-item</name>
+   <tag></tag>
+   <elementGuidId>12d364da-363b-4ae1-beb5-82a02cde3186</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>section > ul.books > li > book-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>book-item</value>
+      <webElementGuid>b28e8468-b2ee-4f43-8ced-d7194a10afae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/section[1]/ul[@class=&quot;books&quot;]/li[1]/book-item[1]</value>
+      <webElementGuid>ef897341-b008-416c-80a1-b6b08b2c4e5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OR Books/Page_automation - Books/book-explore__page</value>
+      <webElementGuid>78e9b0fd-9026-4714-ac84-c1152659e1d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d772ef74-0408-4a08-92b7-5dfb26c135e8</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

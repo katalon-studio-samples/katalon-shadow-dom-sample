@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Mens T-Shirts</name>
+   <tag></tag>
+   <elementGuidId>82ca478b-81ca-4aab-ac33-bc2d7849fd0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabContainer']/shop-tabs/shop-tab[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#header > #tabContainer > shop-tabs > shop-tab:nth-of-type(3) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7e19a3f9-839c-4ed2-a08c-fc8cd0000e78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/list/mens_tshirts</value>
+      <webElementGuid>77e345f5-c38c-454a-9d05-45b9f7a8f993</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Men's T-Shirts</value>
+      <webElementGuid>2703b307-ce18-43ab-8214-a849057cdabc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/app-header[@id=&quot;header&quot;]/div[@id=&quot;tabContainer&quot;]/shop-tabs[1]/shop-tab[3]/a[1]</value>
+      <webElementGuid>2d19ecc4-752d-4208-809a-9fb94ea6a3f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OR Shop-polymer/Page_Mens Tech Shell Full-Zip - SHOP/shop-app_SHOP</value>
+      <webElementGuid>f4dffc52-ae1b-4ff0-ba20-d28c91ddd998</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>579208fa-8b5b-47ae-917e-2e490d399547</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabContainer']/shop-tabs/shop-tab[3]/a</value>
+      <webElementGuid>0bfe5f7c-7cc5-4185-899d-7ca5811889ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Men's T-Shirts']/parent::*</value>
+      <webElementGuid>8550edfd-7a71-4243-9f13-aab155678d3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/list/mens_tshirts')]</value>
+      <webElementGuid>911cb0f9-61d4-4ada-8111-c093c22eb35e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/list/mens_tshirts' and (text() = concat(&quot;Men&quot; , &quot;'&quot; , &quot;s T-Shirts&quot;) or . = concat(&quot;Men&quot; , &quot;'&quot; , &quot;s T-Shirts&quot;))]</value>
+      <webElementGuid>32e4f3f4-9809-431c-9263-924c0493145f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

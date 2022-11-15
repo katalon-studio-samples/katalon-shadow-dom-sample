@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Demo checkout process complete</name>
+   <tag></tag>
+   <elementGuidId>7b26ac2b-0ea6-456c-b50a-00fe3c2b8aab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//iron-pages[@id='pages']/header/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.main-frame > #pages > header.iron-selected > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>1419b1c5-c338-487b-9cbc-0b406f288002</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Demo checkout process complete.</value>
+      <webElementGuid>992bd7f7-5d39-4988-b5d5-04832d839926</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@class=&quot;main-frame&quot;]/iron-pages[@id=&quot;pages&quot;]/header[@class=&quot;iron-selected&quot;]/p[1]</value>
+      <webElementGuid>10ee95bd-58a2-471a-bc5a-c320c7c86373</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OR Shop-polymer/Page_Checkout - SHOP/shop-checkout_checkout</value>
+      <webElementGuid>b9df2a22-25e0-4f64-a5d4-ac589a41ded6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>0f80f765-53bb-4c72-ab12-a2751aad92f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//iron-pages[@id='pages']/header/p</value>
+      <webElementGuid>ef112b10-d3b8-459b-9616-6a530126757d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Demo checkout process complete.']/parent::*</value>
+      <webElementGuid>32737b70-5dde-438d-a104-978e7839e2b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Demo checkout process complete.' or . = 'Demo checkout process complete.')]</value>
+      <webElementGuid>7864df33-06d7-47f8-8d48-1f3220fa1d06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

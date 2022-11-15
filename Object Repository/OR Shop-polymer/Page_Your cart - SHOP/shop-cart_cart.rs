@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>shop-cart_cart</name>
+   <tag></tag>
+   <elementGuidId>7f23d4fc-4826-455c-8657-68cc89ca0626</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//shop-cart[@name = 'cart']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>iron-pages > shop-cart[name=&quot;cart&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>shop-cart</value>
+      <webElementGuid>cac85f39-f533-410e-b67f-52feae382d39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>cart</value>
+      <webElementGuid>1082598b-58e1-4f70-87e9-555bfd930db8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iron-selected</value>
+      <webElementGuid>7d9d6f50-1286-4365-baf4-d9b422908471</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/iron-pages[1]/shop-cart[@class=&quot;iron-selected&quot;]</value>
+      <webElementGuid>c1421ee2-4556-4693-af67-2b0c906fce12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OR Shop-polymer/Page_Your cart - SHOP/shop-app_SHOP</value>
+      <webElementGuid>ea2571d2-bea6-4faa-95db-9165d2ed470e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>50ed9430-fadb-49ec-af9e-10f61eb9268f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//shop-cart[@name = 'cart']</value>
+      <webElementGuid>0c3351ed-56d0-4045-9a76-38dd8b8f0072</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

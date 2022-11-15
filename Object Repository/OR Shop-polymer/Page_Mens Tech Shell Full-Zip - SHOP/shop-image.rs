@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>shop-image</name>
+   <tag></tag>
+   <elementGuidId>a2842595-eb0e-4575-b664-22fca7383f5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/shop-image</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#content > shop-image</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>shop-image</value>
+      <webElementGuid>65c4ce53-6966-4040-ade5-7ad5a020bb93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@id=&quot;content&quot;]/shop-image[1]</value>
+      <webElementGuid>a658ae4b-ad72-4c42-9719-20a79e62ff50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OR Shop-polymer/Page_Mens Tech Shell Full-Zip - SHOP/shop-detail_detail</value>
+      <webElementGuid>5781130b-4b1b-4635-b083-e7dfb87304ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>94c4e8e5-c40c-49e5-890f-f79afb0c4310</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/shop-image</value>
+      <webElementGuid>39063787-c411-4673-be90-eadb1a16ca14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
