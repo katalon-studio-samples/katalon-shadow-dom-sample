@@ -1,0 +1,1 @@
+# katalon-shadow-dom-sample
