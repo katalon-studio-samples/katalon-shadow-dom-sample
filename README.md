@@ -2,7 +2,7 @@
 
 # Introduction
 
-This project demonstrates how katalon studio helps users to automate application behind the shadow DOM.
+This project demonstrates how katalon studio helps users to automate application behind the shadow DOM. it contains some test cases for the shadow dom.
 
 # Requirement
 * Katalon studio v8.5.2 beta
