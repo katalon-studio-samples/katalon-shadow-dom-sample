@@ -40,7 +40,4 @@ In the sample project I am using two different applications for the shadow dom.
 * Verify the test result.
 
 
-**Repository for the Sample Project:**
-https://github.com/katalon-studio-samples/katalon-shadow-dom-sample.git
-
 Thanks.
